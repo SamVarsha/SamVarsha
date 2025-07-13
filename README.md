@@ -1,22 +1,9 @@
 
 
 ```markdown
-<h1 align="center">👋 Hi, I'm Bhuvanindra Kiran Reddy</h1>
-<h3 align="center">AI/ML Engineer | Drone Simulation Developer | Instrumentation Engineer</h3>
+👋 Hi, I'm Bhuvanindra Kiran Reddy</h1>
+AI/ML Engineer | Drone Simulation Developer | Instrumentation Engineer</h3>
 
-<p align="center">
-  <a href="https://github.com/BHUVANINDRA?tab=followers">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/BHUVANINDRA?label=Follow&style=for-the-badge&color=00acee">
-  </a>
-  <a href="https://linkedin.com/in/m-bhuvanindra-kiran-reddy-924072260">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:bhuvankiran02@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact-%23D14836?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
----
 
 ### 🚀 Featured Projects
 
